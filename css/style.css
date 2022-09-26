@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: url(/image/pexels-ylanite-koppens-1809340.jpg);
+    background: url(../image/pexels-ylanite-koppens-1809340.jpg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
